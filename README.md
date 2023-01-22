@@ -1,2 +1,4 @@
 # todo_list_by_nodehttp
 Nodeのhttpモジュールを使ってHTTPサーバーを作る
+
+ハンズオンNode.jsを見てHTTPサーバーを作ってみる練習

@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
         res.statusCode = 405
     } else {
         // /api/todos 以外のURLはないので404(Not Found)
-        res.statuscode = 404
+        res.statusCode = 404
     }
     res.end()
 }).listen(3000) // 3000ポートでリクエストを待機
